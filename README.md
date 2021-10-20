@@ -1,6 +1,6 @@
 # helm-repo
 
-################################################################ DEPLOYMENT WITH HELM #################################################################
+####################### DEPLOYMENT WITH HELM ###############################
 
 Create a helm-repo directory
 sysadmin@ubuntuminikube:~$ mkdir helm-repo
@@ -46,7 +46,7 @@ NAME            NAMESPACE       REVISION        UPDATED                         
 hello-app       default         1               2021-10-19 03:35:10.901360953 +0000 UTC deployed        hello-app-0.1.0 1.16.0
 
 
-########################### PUSHING HELM-REPO REPOSITORY TO GIT ######################################
+################### PUSHING HELM-REPO REPOSITORY TO GIT #########################
 
 sysadmin@ubuntuminikube:~$ cd helm-repo
 sysadmin@ubuntuminikube:~/helm-repo$ git init
