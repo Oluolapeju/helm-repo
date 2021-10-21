@@ -82,6 +82,7 @@ To https://github.com/Oluolapeju/helm-repo.git
  * [new branch]      main -> main
 Branch 'main' set up to track remote branch 'main' from 'master'.
 sysadmin@ubuntuminikube:~/helm-repo$
+new task
 
 
 
